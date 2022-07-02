@@ -2,8 +2,8 @@ This website has been reworked by Enzo Tragnone. There has been no changes on th
 
 The website is fully functional and is working as designed.
 
-live:
+live:https://enzotragnone.github.io/Horiseon/
 
-repo:
+repo:https://github.com/EnzoTragnone/Horiseon
 
 ![Alt text](/SCREENSHOT.png "Title")
